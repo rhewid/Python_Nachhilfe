@@ -1,4 +1,4 @@
-# Lösungen zu Aufgabe 3: Verzweigungen
+## Lösungen zu Aufgabe 3: Verzweigungen
 
 # Aufgabe 1: Einfache Verzweigung
 # Schritt 1: Lies Alter ein.

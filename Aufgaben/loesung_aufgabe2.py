@@ -1,4 +1,4 @@
-# Lösungen zu Aufgabe 2: Schleifen
+## Lösungen zu Aufgabe 2: Schleifen
 
 # Aufgabe 1: For-Schleife
 # Schritt 1: Verwende range(1,11) für 1 bis 10.

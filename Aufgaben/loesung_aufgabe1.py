@@ -1,4 +1,5 @@
-# Lösungen zu Aufgabe 1: Grundlagen
+
+## Lösungen zu Aufgabe 1: Grundlagen
 
 # Aufgabe 1: Hallo Welt
 # Schritt 1: Verwende die print-Funktion, um Text auszugeben.

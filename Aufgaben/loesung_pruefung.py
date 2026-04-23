@@ -1,4 +1,4 @@
-# Lösungen zur Prüfung
+## Lösungen zur Prüfung
 
 # Frage 1: Was gibt das folgende Programm aus?
 # print("Hallo Welt")

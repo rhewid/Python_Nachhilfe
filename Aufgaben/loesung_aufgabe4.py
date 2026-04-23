@@ -1,4 +1,4 @@
-# Lösungen zu Aufgabe 4: Gemischt
+## Lösungen zu Aufgabe 4: Gemischt
 
 # Aufgabe 1: Kombination
 # Schritt 1: Definiere Liste.
