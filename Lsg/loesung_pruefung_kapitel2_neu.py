@@ -25,3 +25,6 @@ print("Summe:", summe)
 # Schritt 1: for i in range(2,11,2), da step=2 für gerade.
 for i in range(2, 11, 2):
     print(i)
+
+
+for 
