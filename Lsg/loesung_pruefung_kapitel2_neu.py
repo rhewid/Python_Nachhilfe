@@ -31,3 +31,9 @@ for i in range(2, 11, 2):
 # Schritt 1:
 for i in 'NAME':
     print(i)
+    
+# Frage 6: Gebe nur den vierten und fünften Buchstaben des Strings Rinderkennzeichnungsfleischetikettierungsüberwachungsaufgabenübertragungsgesetz mit einer for-Schleife aus.
+
+print("----")
+for i in 'Rinderkennzeichnungsfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'[3:5:1]:
+    print(i)
