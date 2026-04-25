@@ -22,3 +22,7 @@
 # Frage 5: Laufe mit einer for-Schleife iterativ einen String durch der deinen Namen ausgibt.
 
 # Code:
+
+# Frage 6: Gebe nur den vierten und fünften Buchstaben des Strings Rinderkennzeichnungsfleischetikettierungsüberwachungsaufgabenübertragungsgesetz mit einer for-Schleife aus.
+
+# Code:
