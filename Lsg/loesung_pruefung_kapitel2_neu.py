@@ -37,3 +37,8 @@ for i in 'NAME':
 print("----")
 for i in 'Rinderkennzeichnungsfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'[3:5:1]:
     print(i)
+
+# Frage 7: Laufe mit einer for-Schleife iterativ einen String RÜCKWÄRTS durch der deinen Namen RÜCKWÄRTS ausgibt.
+
+for i in "NAME"[::-1]:
+    print(i)
