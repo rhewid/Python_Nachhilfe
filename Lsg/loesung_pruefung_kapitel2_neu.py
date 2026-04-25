@@ -27,4 +27,7 @@ for i in range(2, 11, 2):
     print(i)
 
 
-for 
+# Frage 5: Gib mit einer for-Schleife nur die geraden Zahlen von 2 bis 10 aus.
+# Schritt 1:
+for i in 'NAME':
+    print(i)
