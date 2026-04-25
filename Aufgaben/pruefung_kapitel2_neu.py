@@ -5,7 +5,7 @@
 # Code:
 
 
-# Frage 2: Verwende eine while-Schleife, um von 3 bis 1 zu zählen und "Countdown" auszugeben.
+# Frage 2: Verwende eine while-Schleife, um von 3 bis 1 zu zählen und "Countdown" auszugeben. Bsp Countdown 3, Countdown 2 usw.
 
 # Code:
 
