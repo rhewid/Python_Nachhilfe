@@ -18,3 +18,7 @@
 # Frage 4: Gib mit einer for-Schleife nur die geraden Zahlen von 2 bis 10 aus.
 
 # Code:
+
+# Frage 5: Laufe mit einer for-Schleife iterativ einen String durch der deinen Namen ausgibt.
+
+# Code:
