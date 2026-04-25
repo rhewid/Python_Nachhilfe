@@ -31,5 +31,3 @@
 # Frage 7: Laufe mit einer for-Schleife iterativ einen String RÜCKWÄRTS durch der deinen Namen RÜCKWÄRTS ausgibt.
 
 # Code:
-for i in "NAME"[::-1]:
-    print(i)
