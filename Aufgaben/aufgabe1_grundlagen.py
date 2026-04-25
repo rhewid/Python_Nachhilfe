@@ -1,7 +1,9 @@
 # Aufgabe 1: Grundlagen - Hallo Welt
 # Erstelle ein Programm, das "Hallo Welt" ausgibt.
-# Erweitere es, um den Namen des Benutzers einzulesen und zu begrüßen.
+# Schreibe deinen Code hier:
 
+
+# Erweitere es, um den Namen des Benutzers einzulesen und zu begrüßen.
 # Schreibe deinen Code hier:
 
 
