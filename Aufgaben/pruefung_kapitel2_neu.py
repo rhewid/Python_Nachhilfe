@@ -26,3 +26,10 @@
 # Frage 6: Gebe nur den vierten und fünften Buchstaben des Strings Rinderkennzeichnungsfleischetikettierungsüberwachungsaufgabenübertragungsgesetz mit einer for-Schleife aus.
 
 # Code:
+
+
+# Frage 7: Laufe mit einer for-Schleife iterativ einen String RÜCKWÄRTS durch der deinen Namen RÜCKWÄRTS ausgibt.
+
+# Code:
+for i in "NAME"[::-1]:
+    print(i)
